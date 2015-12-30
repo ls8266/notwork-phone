@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+.container{
+width:1000px;
+}
+.img-company{
+width:140px;
+height:90px;
+float:left
+}
+.eye-layout{
+text-align:right;
+margin:0px;
+padding:inherit;
+}
+.title-mode{
+font-size:18px;
+font-weight:bold;
+color:#666666;
+}
+.title-mode:hover{
+border-bottom:2px solid #00AFF0;
+}
+a:hover{color:#00B7F3;
+text-decoration:none;
+}
+a{cursor:pointer
+color:#000000;
+}
+.page-footer{
+width:1024px;
+padding-left:20%;
+padding-top:5%;
+padding-bottom:2%;
+text-align:center;
+}
+.footer-content{
+margin-top:5%;
+background-color:#333333;
+color:#878787;
+}
+.page-footer li{
+list-style-type:none;
+margin-bottom:5%;
+}
+.panel-fount p{
+font-size:16px;
+text-indent:35px;
+}
