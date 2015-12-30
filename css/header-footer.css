@@ -13,6 +13,11 @@ text-align:right;
 margin:0px;
 padding:inherit;
 }
+.login-text{
+color:#000000;
+font-size:14px;
+font-weight:inherit;
+}
 .title-mode{
 font-size:18px;
 font-weight:bold;
