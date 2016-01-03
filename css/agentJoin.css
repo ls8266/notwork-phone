@@ -1,8 +1,0 @@
-@charset "utf-8";
-/* CSS Document */
-#editor {
-overflow:scroll;
-background-color:#FFFFFF;
-min-height:300px;
-max-height:300px;
-}
